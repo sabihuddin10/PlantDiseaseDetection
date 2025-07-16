@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments (you can recreate with requirements.txt)
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# Jupyter notebook checkpoints (if any)
+*.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code config (optional)
+.vscode/
