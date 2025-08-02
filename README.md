@@ -133,14 +133,3 @@ Special thanks to **Muhammad Umair Asad** for collaboration and **Sir Jawwad Sha
 ## 📜 License
 
 This project is open-sourced for educational and research use. Attribution appreciated.
-```
-
----
-
-Let me know if you also want me to generate:
-
-* `requirements.txt`
-* A badge version (for stars, forks, etc.)
-* Hugging Face or Kaggle deployment version
-
-Otherwise, you're good to commit this as `README.md` right now.
